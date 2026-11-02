@@ -119,7 +119,7 @@ The following GIF demonstrates the PLC program execution in the simulation envir
 - `Screenshots/` – Ladder Logic network screenshots.
 - `GIFs/` – PLC simulation demonstration.
 - `Process-Diagram/` – Mixing process illustration.
-- 
+  
 ## Learning Objectives
 
 - Implementing sequential control using Ladder Logic.
