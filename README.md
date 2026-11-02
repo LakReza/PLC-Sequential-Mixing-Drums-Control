@@ -10,6 +10,8 @@ The main objective is to achieve a coordinated mixing process with appropriate t
 
 ## Process Description
 
+![Mixing Drums Process Diagram](Process-Diagram/Mixing-Drums-Process.png)
+
 ### Drum 1 – Main Mixing Process
 
 1. Pressing the Start button activates the rotating motor of Drum 1.
@@ -68,7 +70,21 @@ The main control program is organized into four networks within OB1.
 
 The Ladder Logic networks are provided below for reference.
 
-<!-- Add Network 1–4 screenshots here -->
+### Network 1 – Drum 1 Start and Stop Control
+
+![Network 1](Screenshots/Network-1.png)
+
+### Network 2 – Delayed Water Valve Activation
+
+![Network 2](Screenshots/Network-2.png)
+
+### Network 3 – Delayed Shutdown of Drum 1
+
+![Network 3](Screenshots/Network-3.png)
+
+### Network 4 – Timed Operation of Drum 2
+
+![Network 4](Screenshots/Network-4.png)
 
 ## Simulation Demo
 
