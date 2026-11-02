@@ -115,11 +115,11 @@ The following GIF demonstrates the PLC program execution in the simulation envir
 - **Testing Environment:** PLC Simulation
 
 ## Project Files
-
-- `PLC_Program.pdf` – Exported PLC program.
+- [PLC_Program.pdf](PLC_Program.pdf) – Exported PLC program.
 - `Screenshots/` – Ladder Logic network screenshots.
 - `GIFs/` – PLC simulation demonstration.
-
+- `Process-Diagram/` – Mixing process illustration.
+- 
 ## Learning Objectives
 
 - Implementing sequential control using Ladder Logic.
