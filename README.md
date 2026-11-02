@@ -10,7 +10,8 @@ The main objective is to achieve a coordinated mixing process with appropriate t
 
 ## Process Description
 
-![Mixing Drums Process Diagram](./Process-Diagram/Mixing-Drums-Process.png)
+![Mixing Drums Process Diagram](Process-Diagram/Mixing-Drums-Process.png)
+
 ### Drum 1 – Main Mixing Process
 
 1. Pressing the Start button activates the rotating motor of Drum 1.
