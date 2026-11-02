@@ -88,9 +88,9 @@ The Ladder Logic networks are provided below for reference.
 
 ## Simulation Demo
 
-The project was tested through PLC simulation.
+The following GIF demonstrates the PLC program execution in the simulation environment.
 
-<!-- Add simulation GIF here -->
+![PLC Simulation Demo](GIFs/PLC-Simulation.gif)
 
 ## Simulation Test Cases
 
